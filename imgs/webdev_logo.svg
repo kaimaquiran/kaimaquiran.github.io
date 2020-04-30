@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-102 265.9 390 310" style="enable-background:new -102 265.9 390 310;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#10BAE2;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#EDEDED;stroke:#10BAE2;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#10BAE2;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{fill:#BABABA;}
+	.st4{fill:#CCCCCC;}
+	.st5{fill:#00A6C1;stroke:#10BAE2;stroke-width:2;stroke-miterlimit:10;}
+	.st6{fill:#10BAE2;}
+</style>
+<g id="Layer_4">
+	<rect x="442.3" y="617.6" class="st0" width="235.5" height="213.3"/>
+	<rect x="446.9" y="628.7" class="st1" width="225.3" height="198.7"/>
+	<circle class="st2" cx="450.7" cy="623.4" r="3.4"/>
+	<circle class="st2" cx="458.7" cy="623.4" r="3.4"/>
+	<circle class="st2" cx="466.7" cy="623.4" r="3.4"/>
+	<rect x="446.9" y="654.9" class="st3" width="39.8" height="172.5"/>
+	<rect x="446.9" y="628.7" class="st4" width="225.3" height="26.2"/>
+</g>
+<g id="Layer_3">
+	<path class="st0" d="M656.8,855.2h-96.1c-2.8,0-5-2.3-5-5v-47.4c0-2.8,2.3-5,5-5h96.1c2.8,0,5,2.3,5,5v47.4
+		C661.8,852.9,659.6,855.2,656.8,855.2z"/>
+	<polygon class="st0" points="661.8,813.1 661.8,835.9 696.8,851.5 696.8,801.5 	"/>
+	<circle class="st0" cx="584.6" cy="776.7" r="21.1"/>
+	<circle class="st0" cx="629.9" cy="776.7" r="21.1"/>
+	<path class="st0" d="M527.7,797.3H506l-5.4-13.7h-36.5l-6.4,13.7h-22.2c-2.2,0-3.9,1.8-3.9,3.9v50.1c0,2.2,1.8,3.9,3.9,3.9h92.3
+		c2.2,0,3.9-1.8,3.9-3.9v-50.1C531.6,799,529.9,797.3,527.7,797.3z"/>
+	<circle class="st0" cx="481.6" cy="823.4" r="23.2"/>
+	<circle class="st5" cx="481.6" cy="823.4" r="19.8"/>
+</g>
+<g>
+	<path class="st6" d="M-67.4,420.4l106.1-54.7v15.8l-89.4,44.8v0.5l89.4,44.8v15.8l-106.1-54.7V420.4z"/>
+	<path class="st6" d="M53.6,496.5l63.8-165.8h15.5l-64,165.8H53.6z"/>
+	<path class="st6" d="M253.4,433l-106.1,54.4v-15.8l90.1-44.8v-0.5l-90.1-44.8v-15.8l106.1,54.4V433z"/>
+</g>
+</svg>
