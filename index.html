@@ -11,6 +11,7 @@
 <link href='https://fonts.googleapis.com/css?family=Domine' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">
 
 <!-- jQuery and Bootstrap Script -->
 <script type="text/javascript" src="js/jquery-1.11.3.js"></script>
@@ -37,11 +38,41 @@
 		margin-top: 20%;
 		margin-bottom: 20%;
 	}
+
+	div.icons {
+		padding: 20px;
+		margin-left: 20%;
+		margin-right: 20%;
+
+
+		border-top: 1px solid #d3d3d3;
+	}
+
+	div.icons > a{
+		color: #fff;
+		transition: all .5s ease-in-out;
+	}
+
+	div.icons > a:hover{
+		color: #00aad8;
+	}
+
+	footer{
+		position: absolute;
+		bottom: 0px;
+	}
 </style>
 <body>
 	<div class="container">
+		<img src="imgs/brand_logo_revised.svg" class="center-block img-responsive" alt="">
 		<h1 class="text-center">This Website is Under Construction</h1>
 		<p class="text-center">Please check back at a later time</p>
+
+		<div class="icons text-center">
+			<a href="https://www.linkedin.com/in/kashmier-maquiran-a63a58118/" target="_blank">
+				<i class="fab fa-linkedin fa-lg"></i>
+			</a>
+		</div>
 	</div>
 </body>
 </html>
